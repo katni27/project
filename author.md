@@ -1,2 +1,2 @@
 - Nikita Katichev
-## New conflict
+## Conflict
